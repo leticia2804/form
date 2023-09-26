@@ -1,3 +1,7 @@
+#título-id {
+    color: purple;
+}
+
 .cor-amarela {
     color:yellow;
 }
@@ -25,3 +29,8 @@ h2 {
 .fonte-grande {
     font-size: 50px;
 }
+
+#título-principal {
+    background: black;
+    color: white;
+} 
